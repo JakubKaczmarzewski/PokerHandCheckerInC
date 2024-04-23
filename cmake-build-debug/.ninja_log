@@ -1,0 +1,10 @@
+# ninja log v5
+4	73	7300864651817357	CMakeFiles/biblioteka.dir/main.c.obj	a3ce68c775eea90f
+86	176	7300864652812484	biblioteka.exe	1b8d080e160b97e5
+8	86	7300864651947332	CMakeFiles/biblioteka.dir/library.c.obj	960216c1f7211d34
+2	123	7301473477662177	CMakeFiles/biblioteka.dir/main.c.obj	a3ce68c775eea90f
+6	161	7301473478048616	CMakeFiles/biblioteka.dir/library.c.obj	960216c1f7211d34
+162	394	7301473480329698	biblioteka.exe	1b8d080e160b97e5
+8	69	7355978311905699	CMakeFiles/biblioteka.dir/main.c.obj	a3ce68c775eea90f
+2	110	7355978312325693	CMakeFiles/biblioteka.dir/library.c.obj	960216c1f7211d34
+111	219	7355978313365700	biblioteka.exe	1b8d080e160b97e5
